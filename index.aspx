@@ -12,6 +12,7 @@ let a;
 let b;
 let c;
 c=a+b;
+console.log(c);
 </script>
 </body>
 </html>
