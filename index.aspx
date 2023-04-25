@@ -7,5 +7,8 @@
 <div></div>
 <div></div>
 </div>
+<script>
+let a
+</script>
 </body>
 </html>
