@@ -8,7 +8,10 @@
 <div></div>
 </div>
 <script>
-let a
+let a;
+let b;
+let c;
+c=a+b;
 </script>
 </body>
 </html>
